@@ -11,7 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: "Open Sans";
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -22,14 +22,26 @@ body {
   margin: 0;
 }
 
-.watermelon {
+.card1 {
   background-color: #e97065;
 }
 
-.starfruit {
+.card2 {
   background-color: #fbd25e;
 }
 
-.persimmon {
+.card3 {
   background-color: #e86033;
+}
+
+.watermelon {
+  font-family: "Rammetto One", cursive;
+}
+
+.starfruit {
+  font-family: "Gravitas One", cursive;
+}
+
+.persimmon {
+  font-family: Comfortaa, cursive;
 }
